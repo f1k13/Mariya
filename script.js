@@ -390,7 +390,7 @@ function next(){
         $questtenthQuest1.innerHTML = `1. Кружку`;
         $questtenthQuest2.innerHTML = `2. Открытку`;
         $questtenthQuest3.innerHTML = `3. Пазлы`;
-        $blockDeltenthQuest.innerHTML = `Хочешь увидетб колл-во куни? `;
+        $blockDeltenthQuest.innerHTML = `Хочешь увидеть колл-во куни? `;
 
 
         $divtenthQuest.appendChild($blockTitletenthQuest);
